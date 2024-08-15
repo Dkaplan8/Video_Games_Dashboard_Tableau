@@ -1,2 +1,0 @@
-# Video_Games_Dashboard_Tableau
-Tableau Dashboard
